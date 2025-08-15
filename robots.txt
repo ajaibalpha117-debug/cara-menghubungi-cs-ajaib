@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cara-menghubungi-cs-ajaib.vercel.app/sitemap.xml
